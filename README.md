@@ -9,14 +9,15 @@ Megabytes uses a **fully transparent and immutable economic model**, cryptograph
 
 ## Economic Model Summary (TL;DR)
 
-- **Hard cap:** 26,280,000 MGB  
-- **Initial block reward:** 6.25 MGB  
-- **Halving interval:** 2,102,400 blocks (~4 years)  
-- **Block time:** 60 seconds  
-- **Reward curve:** Bitcoin-style geometric halving  
-- **Premine:** 0 MGB  
-- **Long-term inflation:** Converges to 0  
-- **Mining:** Pure Proof-of-Work (no staking, no developer tax)  
+- **Hard cap:** `26,280,000` MGB  
+- **Initial block reward:** `6.25` MGB  
+- **Halving interval:** `2,102,400 blocks` (~4 years)  
+- **Block time:** `60` seconds  
+- **Reward curve:** `Bitcoin-style` geometric halving  
+- **Premine:** `0` MGB  
+- **Long-term inflation:** Converges to `0`  
+- **Mining:** Pure `Proof-of-Work` (no staking, no developer tax)
+- **Fees:** Market-based, with a default min relay fee of `0.00100000 MGB/kB` (policy, not consensus)
 
 ## Economic Commitment (Block #1)
 
