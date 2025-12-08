@@ -1,7 +1,6 @@
-# megabytes-economic-model
-
-
-
+<p align="center">
+  <img src="img/megabytes_emission_curve.png" width="850"/>
+</p>
 
 ---
 
