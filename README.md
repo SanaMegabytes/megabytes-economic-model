@@ -1,7 +1,6 @@
 # Megabytes (MGB) – Economic Overview
 
-Megabytes uses a **fully transparent and immutable economic model**, cryptographically committed on-chain in **block #1**.  
-The block subsidy, halving schedule, maximum supply, and all economic rules are permanently fixed unless the community performs a deliberate hard fork.
+Megabytes uses a **fully transparent and immutable economic model**, cryptographically committed on-chain in **block #1**. The block subsidy, halving schedule, maximum supply, and all economic rules are permanently fixed unless the community performs a deliberate hard fork.
 
 
 <p align="left">
